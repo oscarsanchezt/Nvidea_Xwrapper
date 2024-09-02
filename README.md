@@ -1,29 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Script para editar Xwrapper.config</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            border: 1px solid #ccc;
-            padding: 10px;
-            overflow-x: auto;
-        }
-        code {
-            font-family: "Courier New", Courier, monospace;
-            color: #d63384;
-        }
-    </style>
 </head>
 <body>
     <h1>Script para editar <code>Xwrapper.config</code> y reiniciar la máquina</h1>
