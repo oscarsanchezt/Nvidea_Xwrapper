@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Script para editar Xwrapper.config</title>
+    - Script para editar Xwrapper.config
 </head>
 <body>
     <h1>Script para editar <code>Xwrapper.config</code> y reiniciar la máquina</h1>
